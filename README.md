@@ -48,7 +48,6 @@
             <li>It's not earth.
             <li>You can see earth from far away.
             <li>It's quiet.
-        </ul>
         
         <h2>What's going on there soon?</h2>
         
@@ -69,7 +68,3 @@
             <li>Find elon musk.
             <li>Ask him to chill with you.
             <li>Ask him to fly you to the moon.
-        </ol>
-        
-    </body>
-</html>
