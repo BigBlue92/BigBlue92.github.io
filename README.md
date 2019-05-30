@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Travel webpage</title>
+        <title>Project: Ryan's Github</title>
         <style>
         body {
         background-color : rgb(54, 48, 92);
@@ -39,7 +39,7 @@
     </head>
     <body>
     
-        <h1>Travel to the moon</h1>
+        <h1>Ryan's Github</h1>
         <img src="https://www.kasandbox.org/programming-images/space/rocketship.png" alt="rocketship" width="172">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/1920px-FullMoon2010.jpg" alt="the moon" width="172">
         <h2>What's good about the moon?</h2>
